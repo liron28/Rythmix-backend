@@ -1,5 +1,7 @@
 # Rythmix
 
+# Rythmix
+
 ## Backend repository for Rythmix
 
 **Frontend repository:**
