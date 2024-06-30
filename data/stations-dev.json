@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Try 1",
+        "imgUrl": "https://assetsio.gnwcdn.com/rock-band-4-review-1444044320767.jpg?width=1200&height=1200&fit=crop&quality=100&format=png&enable=upscale&auto=webp",
+        "createdBy": {
+            "id": "ak491k",
+            "username": "Or Doga",
+            "imgUrl": "http://some-photo/\""
+        },
+        "likedByUsers": [
+            {
+                "id": "abcd12345",
+                "username": "Puki Ben David",
+                "imgUrl": "http://some-photo/"
+            }
+        ],
+        "songs": []
+    },
+    {
+        "name": "Try 2",
+        "imgUrl": "https://assetsio.gnwcdn.com/rock-band-4-review-1444044320767.jpg?width=1200&height=1200&fit=crop&quality=100&format=png&enable=upscale&auto=webp",
+        "createdBy": {
+            "id": "ak491k",
+            "username": "Or Doga",
+            "imgUrl": "http://some-photo/\""
+        },
+        "likedByUsers": [
+            {
+                "id": "abcd12345",
+                "username": "Puki Ben David",
+                "imgUrl": "http://some-photo/"
+            }
+        ],
+        "songs": []
+    },
+    {
+        "name": "Try 3",
+        "imgUrl": "https://assetsio.gnwcdn.com/rock-band-4-review-1444044320767.jpg?width=1200&height=1200&fit=crop&quality=100&format=png&enable=upscale&auto=webp",
+        "createdBy": {
+            "id": "ak491k",
+            "username": "Or Doga",
+            "imgUrl": "http://some-photo/\""
+        },
+        "likedByUsers": [
+            {
+                "id": "abcd12345",
+                "username": "Puki Ben David",
+                "imgUrl": "http://some-photo/"
+            }
+        ],
+        "songs": []
+    },
+    {
+        "name": "Try 4",
+        "imgUrl": "https://assetsio.gnwcdn.com/rock-band-4-review-1444044320767.jpg?width=1200&height=1200&fit=crop&quality=100&format=png&enable=upscale&auto=webp",
+        "createdBy": {
+            "id": "ak491k",
+            "username": "Or Doga",
+            "imgUrl": "http://some-photo/\""
+        },
+        "likedByUsers": [
+            {
+                "id": "abcd12345",
+                "username": "Puki Ben David",
+                "imgUrl": "http://some-photo/"
+            }
+        ],
+        "songs": []
+    }
+]
