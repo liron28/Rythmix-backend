@@ -1,15 +1,13 @@
 # Rythmix
 
-## Deployment - 
-https://rythmix-music-app.onrender.com/
-
 ## Backend repository for Rythmix
+
 **Frontend repository:**
-https://github.com/Ordoga/Rythmix
+https://github.com/liron28/Rythmix
 
 ![](./public/imgs/Rythmix1.jpeg)
 
-Rythmix is a web application based on Spotify that allows users to access music, create and share playlists, and manage their music preferences. The app utilizes the YouTube Data API for accessing music content and features a React frontend with a Node.js backend. Data is stored using MongoDB Atlas.
+Rythmix is a web application inspired by Spotify, enabling users to access music, create and share playlists, and manage their music preferences. The application leverages the YouTube Data API for music content, with a React frontend and a Node.js backend. Data is stored using MongoDB Atlas.
 
 ![](./public/imgs/Rythmix2.jpeg)
 
@@ -19,23 +17,23 @@ To get started with the Rythmix-backend project, follow these steps:
 
 1. **Clone the repository**:
 
-    ```bash
-    git clone https://github.com/Ordoga/Rythmix-backend.git
-    ```
+   ```bash
+   git clone https://github.com/liron28/Rythmix.git
+   ```
 
 2. **Navigate to the project directory**:
 
-    ```bash
-    cd Rythmix-backend
-    ```
+   ```bash
+   cd Rythmix-backend
+   ```
 
 3. **Install dependencies**:
 
-    Make sure you have [Node.js](https://nodejs.org/) installed. Then run:
+   Make sure you have [Node.js](https://nodejs.org/) installed. Then run:
 
-    ```bash
-    npm install
-    ```
+   ```bash
+   npm install
+   ```
 
 ## Usage
 
@@ -49,13 +47,11 @@ Server will run on port 3030
 
 Go to "http://localhost:3030" to use app
 
-
 ## Features
 
-- **Music Access**: Utilize the YouTube Data API to search and play music.
+- **Music Access**: Search and play music using the YouTube Data API.
 - **Playlists**: Create, manage, and share playlists.
 - **Database**: Store user data and playlists in MongoDB Atlas.
-- **User Authentication**
 
 ## Technologies Used
 
@@ -68,8 +64,6 @@ Go to "http://localhost:3030" to use app
 
 - **API**: YouTube Data API v3
 - **Player**: react-player
-- **MUI**
-- **extract-colors**
 
 ## Prerequisites
 
@@ -77,10 +71,10 @@ Go to "http://localhost:3030" to use app
 - MongoDB Atlas account
 - YouTube Data API key
 
-
 ## Project Structure
 
 - **client**: Contains the React frontend
+
   - **src**
     - **components**: React components
     - **redux**: Redux actions and reducers
