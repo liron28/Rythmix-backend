@@ -1,4 +1,3 @@
-# Rythmix
 
 # Rythmix
 
